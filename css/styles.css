@@ -6225,6 +6225,18 @@ button.bg-dark:focus {
     background-image: linear-gradient(to bottom right, #35008e, #b81e85);
 }
 
+.bg-UW{
+    background-image: linear-gradient(to bottom right, #000000, #c40000);
+}
+
+.bg-UW1{
+    background-image: linear-gradient(to top left, #0d0000, #930000);
+}
+
+
+
+
+
 .bg-VNA-inverse{
     background-image: linear-gradient(to top left, #35008e, #b81e85);
 }
@@ -10025,7 +10037,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-porcelain {
-  color: #a2a2a2 !important;
+  color: #eeeeee !important;
 }
 
 
